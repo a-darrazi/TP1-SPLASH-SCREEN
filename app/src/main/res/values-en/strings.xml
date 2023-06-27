@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1-Splash-Screen</string>
+    <string name="s_identifier">LOGIN</string>
+    <string name="nom_d_utilisateur">User Name</string>
+    <string name="mot_de_passe">Password</string>
+    <string name="welcome_to_my_app">Welcome</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP1-Splash-Screen</string>
+    <string name="s_identifier">S\'IDENTIFIER</string>
+    <string name="nom_d_utilisateur">Nom d\'utilisateur</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="welcome_to_my_app">Bienvenue</string>
+</resources>
